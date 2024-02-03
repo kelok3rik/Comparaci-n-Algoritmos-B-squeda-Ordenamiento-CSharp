@@ -1,0 +1,9 @@
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-2-PARALELOS\SimularCarreras\bin\Debug\SimularCarreras.exe.config
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-2-PARALELOS\SimularCarreras\bin\Debug\SimularCarreras.exe
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-2-PARALELOS\SimularCarreras\bin\Debug\SimularCarreras.pdb
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-2-PARALELOS\SimularCarreras\obj\Debug\SimularCarreras.csproj.AssemblyReference.cache
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-2-PARALELOS\SimularCarreras\obj\Debug\SimularCarreras.Properties.Resources.resources
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-2-PARALELOS\SimularCarreras\obj\Debug\SimularCarreras.csproj.GenerateResource.cache
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-2-PARALELOS\SimularCarreras\obj\Debug\SimularCarreras.csproj.CoreCompileInputs.cache
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-2-PARALELOS\SimularCarreras\obj\Debug\SimularCarreras.exe
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-2-PARALELOS\SimularCarreras\obj\Debug\SimularCarreras.pdb
