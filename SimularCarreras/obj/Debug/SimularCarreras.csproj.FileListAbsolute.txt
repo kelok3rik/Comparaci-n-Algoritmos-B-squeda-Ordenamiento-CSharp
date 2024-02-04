@@ -7,3 +7,4 @@ C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS P
 C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-2-PARALELOS\SimularCarreras\obj\Debug\SimularCarreras.csproj.CoreCompileInputs.cache
 C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-2-PARALELOS\SimularCarreras\obj\Debug\SimularCarreras.exe
 C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-2-PARALELOS\SimularCarreras\obj\Debug\SimularCarreras.pdb
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-2-PARALELOS\SimularCarreras\obj\Debug\SimularCarreras.Form1.resources
