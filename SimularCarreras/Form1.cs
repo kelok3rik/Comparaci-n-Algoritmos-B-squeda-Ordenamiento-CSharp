@@ -47,6 +47,7 @@ namespace SimularCarreras
                 Stopwatch sw = Stopwatch.StartNew();
                 Insercion(arreglo);
                 TiempoInsercion = sw.Elapsed;
+                Console.WriteLine("Arreglo ordenado por inserción: " + string.Join(", ", arreglo));
             });
 
             Task<int> tareaBusquedaSecuencial = Task.Run(() =>
@@ -194,7 +195,7 @@ namespace SimularCarreras
 
         static int BusquedaBinaria(int[] arreglo, int valor)
         {
-           Console.WriteLine("Busqueda binaria a buscar: "+valor);
+        
             int inicio = 0;
             int fin = arreglo.Length - 1;
 
@@ -269,15 +270,15 @@ namespace SimularCarreras
         {
             for (int i = 1; i < arreglo.Length; i++)
             {
-                int clave = arreglo[i];
-                int j = i - 1;
-
-                while (j >= 0 && arreglo[j] > clave)
+                for (int j = i; j > 0; j--)
                 {
-                    arreglo[j + 1] = arreglo[j];
-                    j = j - 1;
+                    if (arreglo[j] < arreglo[j - 1])
+                    {
+                        int temp = arreglo[j];
+                        arreglo[j] = arreglo[j - 1];
+                        arreglo[j - 1] = temp;
+                    }
                 }
-                arreglo[j + 1] = clave;
             }
         }
 

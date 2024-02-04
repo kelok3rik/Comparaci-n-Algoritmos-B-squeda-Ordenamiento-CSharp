@@ -59,7 +59,7 @@
             // 
             this.arregloTxt.Location = new System.Drawing.Point(12, 132);
             this.arregloTxt.Name = "arregloTxt";
-            this.arregloTxt.Size = new System.Drawing.Size(545, 223);
+            this.arregloTxt.Size = new System.Drawing.Size(799, 223);
             this.arregloTxt.TabIndex = 0;
             this.arregloTxt.Text = "";
             // 
@@ -67,7 +67,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Britannic Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(220, 9);
+            this.label1.Location = new System.Drawing.Point(382, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(301, 33);
             this.label1.TabIndex = 1;
@@ -156,7 +156,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(563, 235);
+            this.button1.Location = new System.Drawing.Point(822, 238);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(143, 38);
             this.button1.TabIndex = 31;
@@ -179,69 +179,62 @@
             this.labelTiempoSecuencial.AutoSize = true;
             this.labelTiempoSecuencial.Location = new System.Drawing.Point(223, 416);
             this.labelTiempoSecuencial.Name = "labelTiempoSecuencial";
-            this.labelTiempoSecuencial.Size = new System.Drawing.Size(44, 16);
+            this.labelTiempoSecuencial.Size = new System.Drawing.Size(0, 16);
             this.labelTiempoSecuencial.TabIndex = 33;
-            this.labelTiempoSecuencial.Text = "label5";
             // 
             // labelTiempoBinario
             // 
             this.labelTiempoBinario.AutoSize = true;
             this.labelTiempoBinario.Location = new System.Drawing.Point(223, 447);
             this.labelTiempoBinario.Name = "labelTiempoBinario";
-            this.labelTiempoBinario.Size = new System.Drawing.Size(44, 16);
+            this.labelTiempoBinario.Size = new System.Drawing.Size(0, 16);
             this.labelTiempoBinario.TabIndex = 34;
-            this.labelTiempoBinario.Text = "label5";
             // 
             // labelTiempoQuickSort
             // 
             this.labelTiempoQuickSort.AutoSize = true;
             this.labelTiempoQuickSort.Location = new System.Drawing.Point(223, 517);
             this.labelTiempoQuickSort.Name = "labelTiempoQuickSort";
-            this.labelTiempoQuickSort.Size = new System.Drawing.Size(44, 16);
+            this.labelTiempoQuickSort.Size = new System.Drawing.Size(0, 16);
             this.labelTiempoQuickSort.TabIndex = 36;
-            this.labelTiempoQuickSort.Text = "label5";
             // 
             // labelTiempoBurbuja
             // 
             this.labelTiempoBurbuja.AutoSize = true;
             this.labelTiempoBurbuja.Location = new System.Drawing.Point(223, 483);
             this.labelTiempoBurbuja.Name = "labelTiempoBurbuja";
-            this.labelTiempoBurbuja.Size = new System.Drawing.Size(44, 16);
+            this.labelTiempoBurbuja.Size = new System.Drawing.Size(0, 16);
             this.labelTiempoBurbuja.TabIndex = 35;
-            this.labelTiempoBurbuja.Text = "label5";
             // 
             // labelMetodoInsercion
             // 
             this.labelMetodoInsercion.AutoSize = true;
             this.labelMetodoInsercion.Location = new System.Drawing.Point(223, 547);
             this.labelMetodoInsercion.Name = "labelMetodoInsercion";
-            this.labelMetodoInsercion.Size = new System.Drawing.Size(44, 16);
+            this.labelMetodoInsercion.Size = new System.Drawing.Size(0, 16);
             this.labelMetodoInsercion.TabIndex = 37;
-            this.labelMetodoInsercion.Text = "label7";
             // 
             // labelMemoriaConsumida
             // 
             this.labelMemoriaConsumida.AutoSize = true;
             this.labelMemoriaConsumida.Location = new System.Drawing.Point(305, 580);
             this.labelMemoriaConsumida.Name = "labelMemoriaConsumida";
-            this.labelMemoriaConsumida.Size = new System.Drawing.Size(44, 16);
+            this.labelMemoriaConsumida.Size = new System.Drawing.Size(0, 16);
             this.labelMemoriaConsumida.TabIndex = 38;
-            this.labelMemoriaConsumida.Text = "label7";
             // 
             // labelResultadoCarrera
             // 
             this.labelResultadoCarrera.AutoSize = true;
             this.labelResultadoCarrera.Location = new System.Drawing.Point(198, 652);
             this.labelResultadoCarrera.Name = "labelResultadoCarrera";
-            this.labelResultadoCarrera.Size = new System.Drawing.Size(44, 16);
+            this.labelResultadoCarrera.Size = new System.Drawing.Size(0, 16);
             this.labelResultadoCarrera.TabIndex = 39;
-            this.labelResultadoCarrera.Text = "label7";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(558, 129);
+            this.label5.Location = new System.Drawing.Point(817, 132);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(73, 25);
             this.label5.TabIndex = 40;
@@ -249,7 +242,7 @@
             // 
             // txtBoxBuscar
             // 
-            this.txtBoxBuscar.Location = new System.Drawing.Point(637, 132);
+            this.txtBoxBuscar.Location = new System.Drawing.Point(896, 135);
             this.txtBoxBuscar.Name = "txtBoxBuscar";
             this.txtBoxBuscar.Size = new System.Drawing.Size(103, 22);
             this.txtBoxBuscar.TabIndex = 41;
@@ -257,7 +250,7 @@
             // btnGenerar
             // 
             this.btnGenerar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnGenerar.Location = new System.Drawing.Point(563, 179);
+            this.btnGenerar.Location = new System.Drawing.Point(822, 182);
             this.btnGenerar.Name = "btnGenerar";
             this.btnGenerar.Size = new System.Drawing.Size(143, 38);
             this.btnGenerar.TabIndex = 42;
@@ -288,15 +281,14 @@
             this.labelResultadoCarreraOrd.AutoSize = true;
             this.labelResultadoCarreraOrd.Location = new System.Drawing.Point(208, 681);
             this.labelResultadoCarreraOrd.Name = "labelResultadoCarreraOrd";
-            this.labelResultadoCarreraOrd.Size = new System.Drawing.Size(44, 16);
+            this.labelResultadoCarreraOrd.Size = new System.Drawing.Size(0, 16);
             this.labelResultadoCarreraOrd.TabIndex = 45;
-            this.labelResultadoCarreraOrd.Text = "label7";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(752, 706);
+            this.ClientSize = new System.Drawing.Size(1020, 742);
             this.Controls.Add(this.labelResultadoCarreraOrd);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
