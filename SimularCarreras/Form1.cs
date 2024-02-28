@@ -14,7 +14,7 @@ namespace SimularCarreras
     public partial class Form1 : Form
     {
 
-        // Generar un nuevo arreglo aleatorio
+        // Generar un nuevo arreglo 
         int[] arreglo;
 
 
